@@ -1,5 +1,13 @@
 {
   "devDependencies": {
     "shadow-cljs": "^2.3.22"
+  },
+  "dependencies": {
+    "jimp": "^0.8.5",
+    "phaser": "^3.20.1",
+    "pixi.js": "^5.1.5",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "wavefunctioncollapse": "^2.0.0"
   }
 }
